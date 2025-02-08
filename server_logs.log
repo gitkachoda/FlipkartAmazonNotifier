@@ -1,0 +1,16 @@
+2025-02-09 05:19:23,780 - INFO - 🚀 Bot Started... Listening for messages!
+2025-02-09 05:19:23,796 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.13.82:5000
+2025-02-09 05:19:23,796 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-09 05:19:24,301 - INFO - ✅ Keep-alive ping received
+2025-02-09 05:19:24,301 - INFO - 127.0.0.1 - - [09/Feb/2025 05:19:24] "GET /keep_alive HTTP/1.1" 200 -
+2025-02-09 05:22:31,355 - INFO - 🚀 Bot Started... Listening for messages!
+2025-02-09 05:22:31,370 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.13.82:5000
+2025-02-09 05:22:31,370 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-09 05:22:31,877 - INFO - ✅ Keep-alive ping received
+2025-02-09 05:22:31,877 - INFO - 127.0.0.1 - - [09/Feb/2025 05:22:31] "GET /keep_alive HTTP/1.1" 200 -
